@@ -29,8 +29,11 @@ https://www.socialismocriativo.com.br/porto-digital-do-recife-superlativo-em-eco
 
 
      Artigos
+     
+[O fomento ao empreendedorismo e à economia criativa na cidade do recife: um estudo de caso sobre o Porto Digital.](http://tede2.unicap.br:8080/handle/tede/1361)
 
-[ (https://repositorio.ufpe.br/bitstream/123456789/14237/1/Disserta%C3%A7%C3%A3o%20Marcelo%20Henriques%20de%20A%20Pessoa%20ATUALIZADA.pdfhttps://www2.recife.pe.gov.br/noticias/10/12/2021/prefeitura-lanca-o-recife-virado-no-turismo)
+
+(https://repositorio.ufpe.br/bitstream/123456789/14237/1/Disserta%C3%A7%C3%A3o%20Marcelo%20Henriques%20de%20A%20Pessoa%20ATUALIZADA.pdfhttps://www2.recife.pe.gov.br/noticias/10/12/2021/prefeitura-lanca-o-recife-virado-no-turismo)
 
 [O Turismo Criativo na Agenda Política: possibilidades de contribuição para os Objetivos do Desenvolvimento Sustentável](https://github.com/AnaMCMV/Recife-cidade-criativa/blob/main/184798-Texto%20do%20artigo-540695-1-10-20220215.pdf)
 
