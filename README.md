@@ -39,5 +39,9 @@ https://www.socialismocriativo.com.br/porto-digital-do-recife-superlativo-em-eco
 
 [O turismo criativo como base para as políticasfocadas no desenvolvimento sustentávellocal: O caso de Brasília e do Recife – Brasil](https://github.com/AnaMCMV/Recife-cidade-criativa/blob/main/9217-Manuscrito-55725-1-10-20210706.pdf)
 
+[Relações entre cultura e mercado no ambiente urbano: uma discussão sobre a noção de cidade criativa a partir do cinema independente no Recife](https://repositorio.ufpe.br/handle/123456789/32112)
+
+[O bairro do Recife e a Economia Criativa: do Carnaval Multicultural ao Paço do Frevo](https://periodicos.uff.br/pragmatizes/article/view/10436)
+
 
 
