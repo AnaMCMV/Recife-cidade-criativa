@@ -1,8 +1,8 @@
 # Recife-cidade-criativa
 
 
- * [Site da cidade](http://turismocriativo.visit.recife.br/)
-
+ * [Site de Recife como cidade criativa](http://turismocriativo.visit.recife.br/)
+ * [Site turístico](https://visit.recife.br/)
  * [Planno de turismo municipal](https://visit.recife.br/wp-content/uploads/2020/02/plano_turismo_criativo.pdf)
 
 
