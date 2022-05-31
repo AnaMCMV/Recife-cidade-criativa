@@ -4,7 +4,7 @@
  * [Site de Recife como cidade criativa](http://turismocriativo.visit.recife.br/)
  * [Site turístico](https://visit.recife.br/)
  * [Planno de turismo municipal](https://visit.recife.br/wp-content/uploads/2020/02/plano_turismo_criativo.pdf)
- * [Plano Recife 500 anos)[https://recife500anos.org.br/]
+ * [Plano Recife 500 anos](https://recife500anos.org.br/)
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-     Notícias
+      Notícias
       
 [Recife foca em turismo de lazer e anuncia novos projetos](https://brasilturis.com.br/recife-foca-em-turismo-de-lazer-e-anuncia-novos-projetos/)
 
