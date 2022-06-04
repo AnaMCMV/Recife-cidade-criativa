@@ -58,6 +58,7 @@ marketing turístico](https://repositorio.ufpe.br/bitstream/123456789/14237/1/Di
 [Experiências com a gastronomia local: um estudo de caso 
 sobre movimento Slow Food e o turismo gastronômico na 
 cidade de Recife - Brasil](http://www.pasosonline.org/Publicados/14116/PS116_15.pdf)
+* [Olindart: conexão entre realidade aumentada (AR) e QR code para desenvolvimento e ampliação do alcance da produção da economia criativa da cidade de Olinda (PE)](https://repositorio.ufpb.br/jspui/handle/123456789/16627?locale=pt_BR)
 
 
         Outros
