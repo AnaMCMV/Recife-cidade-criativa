@@ -7,7 +7,7 @@
  * [Planno de turismo municipal](https://visit.recife.br/wp-content/uploads/2020/02/plano_turismo_criativo.pdf)
  * [Plano Recife 500 anos](https://recife500anos.org.br/)
  * [Observatório do turismo de Recife](https://observatorioturismo.visit.recife.br/o-observatorio/)
-
+ * [Boletim trimestral](https://github.com/AnaMCMV/Recife-cidade-criativa/blob/main/boletim-trimestral.pdf)
 
 
 
@@ -60,6 +60,7 @@ sobre movimento Slow Food e o turismo gastronômico na
 cidade de Recife - Brasil](http://www.pasosonline.org/Publicados/14116/PS116_15.pdf)
 
 
-
+        Outros
+*[Anuário estatístico da atividade turística](https://github.com/AnaMCMV/Recife-cidade-criativa/blob/main/AnurioEstatsticodeTurismo2021AnoBase2020_2ED.pdf)
 
 
