@@ -16,7 +16,7 @@
 
 
 
-      Notícias
+     Notícias
       
 [Recife foca em turismo de lazer e anuncia novos projetos](https://brasilturis.com.br/recife-foca-em-turismo-de-lazer-e-anuncia-novos-projetos/)
 
