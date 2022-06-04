@@ -3,9 +3,10 @@
 
  * [Site de Recife como cidade criativa](http://turismocriativo.visit.recife.br/)
  * [Site turístico](https://visit.recife.br/)
+ * [Área do turista](https://www2.recife.pe.gov.br/servicos/turista)
  * [Planno de turismo municipal](https://visit.recife.br/wp-content/uploads/2020/02/plano_turismo_criativo.pdf)
  * [Plano Recife 500 anos](https://recife500anos.org.br/)
-
+ * [Observatório do turismo de Recife](https://observatorioturismo.visit.recife.br/o-observatorio/)
 
 
 
