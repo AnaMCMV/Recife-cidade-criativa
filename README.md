@@ -62,6 +62,6 @@ cidade de Recife - Brasil](http://www.pasosonline.org/Publicados/14116/PS116_15.
 
 
         Outros
-*[Anuário estatístico da atividade turística](https://github.com/AnaMCMV/Recife-cidade-criativa/blob/main/AnurioEstatsticodeTurismo2021AnoBase2020_2ED.pdf)
+* [Anuário estatístico da atividade turística](https://github.com/AnaMCMV/Recife-cidade-criativa/blob/main/AnurioEstatsticodeTurismo2021AnoBase2020_2ED.pdf)
 
 
